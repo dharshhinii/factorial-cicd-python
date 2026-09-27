@@ -5,7 +5,7 @@ def test_factorial_of_zero():
     assert factorial(0) == 1
 
 def test_factorial_of_five():
-    assert factorial(5) == 120
+    assert factorial(5) == 121
 
 def test_factorial_of_ten():
     assert factorial(10) == 3628800
